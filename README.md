@@ -1,3 +1,5 @@
+<img src="https://github.com/HugoCapela/HugoCapela/blob/main/Banner.png" />
+
 <h1 align="center">Hi 👋, I'm Hugo Capela</h1>
 <h3 align="center">🍸 From bartending and 🏒 ice-hockey data collector, to full stack developer 🖥️</h3>
 
